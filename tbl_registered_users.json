@@ -1,0 +1,11 @@
+[
+{"type":"header","version":"4.8.4","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"phpsamples"},
+{"type":"table","name":"tbl_registered_users","database":"phpsamples","data":
+[
+{"id":"1","name":"anshu","address":"gajera","area":"katargam","route":"amroli","boarding":"gajera school","shift":"1","contact":"2147483647","email":"anshu@gmail.com","password":"e10adc3949ba59abbe56e057f20f883e"},
+{"id":"2","name":"jai","address":"gajera","area":"katargam","route":"amroli","boarding":"gajera school","shift":"1","contact":"2147483647","email":"jai@gmail.com","password":"e10adc3949ba59abbe56e057f20f883e"},
+{"id":"3","name":"shubham","address":"gajera","area":"katargam","route":"amroli","boarding":"gajera school","shift":"1","contact":"1234567890","email":"1477019@gmail.com","password":"e10adc3949ba59abbe56e057f20f883e"}
+]
+}
+]
